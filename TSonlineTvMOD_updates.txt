@@ -1,0 +1,4 @@
+2.5
+http://szudena.byethost3.com/enigma2/enigma2-plugin-extensions-tsonlinetvmod-oe2.0_2.5_all.ipk
+-New plugin menu, add categories to teledunet, 
+-------------------

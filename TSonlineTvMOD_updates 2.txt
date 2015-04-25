@@ -1,0 +1,6 @@
+3.1
+http://szudena.lima-city.de/enigma2-plugin-extensions-tsonlinetvmod_3.1_all.ipk
+-New Design, problems with 1920x1080 skins fixed, ip changed due changes on website.
+-------------------
+14-06-2014 by szudena
+Added more channels
