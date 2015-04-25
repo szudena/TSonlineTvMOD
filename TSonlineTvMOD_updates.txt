@@ -1,4 +1,6 @@
-2.5
-http://szudena.byethost3.com/enigma2/enigma2-plugin-extensions-tsonlinetvmod-oe2.0_2.5_all.ipk
--New plugin menu, add categories to teledunet, 
+3.1
+https://github.com/szudena/TSonlineTvMOD/raw/master/enigma2-plugin-extensions-tsonlinetvmod_3.1_all.ipk
+-New Design, problems with 1920x1080 skins fixed, ip changed due changes on website.
 -------------------
+24-04-2015 by szudena
+Added more channels
