@@ -1,10 +1,1887 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--updated=24-4-2015 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!--updated=26-04-2015 by szudena-->
 <iptvstreams_list>
     <group>
         <id>1</id>
-        <name>soon</name>
+        <name>GLarab</name>
         <info></info>
-
-    </group>
-</iptvstreams_list>
+<channel>
+	<name>2M</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[M2Morocco_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>4Shbab</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[4Shbab_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>7Stars</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[7Stars_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>A1 Jordan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[A1Jordan_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AAAMusic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AAAMusic_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>ABN</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ABN_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ADAlOula_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ADDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi Emirates</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ADEmirates_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi Sports 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ADSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aden</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Aden_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aghanina</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Aghanina_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aghapy</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Aghapy_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Ajman</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Ajman_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Ajyal</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AjyalTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Adala</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlAdala_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AL AHLY</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlAhlyTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Amaken Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlAmakenDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Anwar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlAnwar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Baghdadia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlBaghdadia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Dafra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlDafra_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Eman</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlEman_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Eqtisadiyah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlEqtisadiyah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Fayhaa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlFayhaa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Forat</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlForat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Haneen Music</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MusicAlhanen_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Haqeeqa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlHaqeeqa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Hiwar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlHiwar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Hiwar Ettounsi</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlHiwarTunis_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Hiwar Ettounsi</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Tounisa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Iraqiya Documentary</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlIraqiaDocumentary_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Iraqiya Tarbawiyah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlIraqAlTarbawiyah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Kout</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlKout_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Lubnania</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlLubnania_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Maghribia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMaghribia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Majd</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlmajdSpace_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Manar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlManar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Masar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMasar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Masriyah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMasriyah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al mayaden</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMayadeen_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Moustakilla</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMustakila_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Nahar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlNahar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Nahar 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlNaharMovies_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Nahar 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlNahar2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Nahar Alyoum</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlNahar2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Nahar Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlNaharDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Nahar Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlNaharSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Ordonia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlOrdoni_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al oula Maroc</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlAoulaEurope_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Rafidain</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlRafidain_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Rasheed</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlRasheed_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Sabah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlSabah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al sahraa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlSahraa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Sharqiya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlSharqiya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Sharqiya News</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlsharqiyaNews_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Sumaria</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Alsumaria_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Taghier</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlTaghier_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al Thakafiyah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlThakafiyah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al-hurra Iraq</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlhurraIraq_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Al-Resalah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlResala_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlAan_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alaqsa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AqsaSatCh_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alarabiya Ahdas</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlArabiyaHadath_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlBabeleyia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlBabeleyia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Albait Baitak Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlbaitBaitakCinema_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aldiyar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AldiyarSat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlGeria</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CanalAlgerie_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Algeria 3</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Thalitha_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alhayat 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Hayat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alhayat Series</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlHayatMousalsalat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alhayat2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Alhayat2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlHayat_Christian</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ALhayat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aliraqia 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlIraqia2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aliraqiya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlIraqiya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aljadeed</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlJadeed_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlJazeera</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlJazeera_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aljazeera Children</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlJazeeraKid_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aljazeera Doc</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlJazeeraDocument_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aljazeera En</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlJazeeraEnglish_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aljazeera Mubasher</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlJazeeraLive_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aljazeera Mubasher Masr</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[JSCLiveMisr_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Aljazeera US</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlJazeeraInt_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlKahera</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlKahera_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alkarama_Christian</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlKarma_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>alkass</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlDawriAlKassSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlMalakot</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMalakot_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Almas</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMas_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlMasrawia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMasrawia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlMukhales</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlMukhales_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlQahera W Elnas</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlKaheraWalNas_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AlQahera W Elnas 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlKaheraWalNas2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alqithara</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlQithara_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alqudis</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Alquds_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alrai</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Alrai_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alriadia Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Arryadia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>alsaeedah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlSaeeda_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>alwatan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Alwatan_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Alwatan Plus</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlwatanPlus_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>ANB</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ANB_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>ANN</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ANN_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Arabica Music</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ArabicaMusic_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Arrabia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Arrabiaa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Ashorooq</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlShrooq_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Assadissa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Assadissa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>AssyrSat</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AssyrSat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Asunnah TV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlSunnah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Atfal wa Mawaheb</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AtfalwaMawaheb_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Baghdad</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Baghdad_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Bahrain</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Bahrain_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Bahrain</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[BahrainInt_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>BAHRAIN SPORTS</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[BahrainSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Baraem</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Baraem_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>BBC Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[BBCArabic_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Bein Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[beINSports_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Beirut Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlTet_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Beladi</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Beladi_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Blue Nile</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[BlueNile_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Cairo Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CairoCinema_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Cairo Cinema 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Mosar3_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Cairo Comedy</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CairoComedy_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Cairo Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CairoDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Cartoon Network</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CNArabia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>CBC</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CBC_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>CBC Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CBCDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>CBC Extra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CBC2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>CBC Sofra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CBCSofra_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>CCTV Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CCTVArabia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Chabab</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Chabab_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Chobra Cima</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[LayaliCinema_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Cima</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Cima_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Cine Majesti</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MajesticCinema_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Coptic_Christian</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[CTVEgypt_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Darbaka Aflam</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MasrawiAflam_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Dejlah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Dejlah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Djibouti</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RTD_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>DM</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[DM_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Dream 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Dream1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Dream 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Dream2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Dubai</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[DubaiEurope_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Dubai One</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[DubaiOne_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Dubai Sport 3</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[DubaiSports_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Dubai Sport HD2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[DubaiSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Dubai Sport HD2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[DubaiSport2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>DW Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[DWTVArabia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Egypt 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlThanya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>EnnaharTV algerie</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlAtlas_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>ETV1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ETV1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Euro News Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[EuroNews_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Fatafeat</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Fatafeat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Fox Movies</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[FoxMovies_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>France 24</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[France24Arabic_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Funoon</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Funoon_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Future News</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[FutureNews_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Future TV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[FutureUSA_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Future TV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Future_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Fx Arabia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Fox_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>GearOne</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[GearOne_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Gladiator</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Gladiator_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Goan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[GoanTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Hanibal</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Hannibal_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>HodHod</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[HodHod_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Huda</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Huda_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>iFilm Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[iFilm_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Imagines Movies</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ImagineMovies_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Iqra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Iqraa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Ishtar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Ishtar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Jordan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[GamarHashimi_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Jordan Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[JordanSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Kaifa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Kaifa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Karameesh</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Karameesh_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Khartoum</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[KhartoumTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Koky Kids</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Koky_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>KSA 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SaudiArabia1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>KSA 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[KSA2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>KSA News</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlEkhbariya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>KTV ARABE</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[KTVAlArabi_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>KTV Sport Plus</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[KTV3Plus_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>KTV2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[KTV2Kuwait_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Kuwait</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[KuwaitSpace_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Lbc Europe</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[LBC_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>LCD AFLAM</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[LcdTurkey_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>LDC</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[LDC_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Libya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlAhrar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Libya 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Libya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Libya AlWataniya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[LibyaAlWataniya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Libya Sport 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[LibyaSportChannel1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Lindex</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[WeladElBalad_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>LineSport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[LineSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>LLBN</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[LLBN_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Maannews</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MixTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Mara7</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Mara7_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Massaya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Massaya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Mauritanie</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MauritaniaTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBC1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBC2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC 3</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBC3_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC 4</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBC4_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC Action</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBCAction_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC Bollywood</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBCBollywood_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBCDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC Masr</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBCMaser_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC Masr 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBCMasrPlus2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC Masr Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBCMaserDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MBC Max</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MBCMax_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Mea</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MeaTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Medi 1 Sat</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Medi1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Mehwar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MehwarPlus2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Mehwar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ElMehwar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Miracle</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Miracle_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Moga Comedy</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MogaComedy_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MTV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MTVLebanon_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>MTV Arabia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MTVArabia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Music+</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[MusicPlus_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nart</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Nart_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>National Geo Ad</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ADNatGeo_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>NBN</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NBNLebanon_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Neelain Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NeelainSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nessma</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NessmaAlKhadra_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nessma</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Nessma_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileCinema_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile Comedy</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileComedy_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile Culture</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileCulture_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile Family</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileFamily_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile Life</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileLife_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile News</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileNews_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileSport_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nile Tv</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileInt_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nojoom1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Nojoom1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Noon Kids</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Noon_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Noor Dubai</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NoorDubai_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Nourmina</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Nourmina_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Noursat</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Noursat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>NoursatAlShabab</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NourAlShabab_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Om Durman</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[OmDurman_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Oman</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Oman_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>On TV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ONTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>ON TV Live</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ONTVLive_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>ONTV Live</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ONTVLive_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Orient News</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[OrientNews_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>ORTM</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ORTM_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Oscar Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[OscarDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Oscar Drama 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[OscarDrama2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>OTV Lebanon</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[OTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Oyoun Jeddah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[OyounJeddah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Palestine</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Palestinian_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Palestine AlYawm</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[PalestineAlYawm_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Palestine Live</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[PalestineLive_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Panorama Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[PanoramaDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Panorama Drama 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[PanoramaDrama2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Panorama film</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[PanoramaFilm_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Qatar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Qatar_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Quran TV ksa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlQuran_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>RAK</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RAK_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Rotana Aflam</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RotanaAflam_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Rotana Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RotanaCinema_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Rotana Classic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RotanaZaman_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Rotana Clip</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RotanaClip_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Rotana Khaligi</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RotanaKhalijiah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Rotana Masriya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RotanaMasriya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Rotana Music</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RotanaMusic_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Roya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Roya_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Royal Albadawiya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RoyalAlBadawia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Royal Edhak</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RoyalEdhak_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Royal Secret</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RoyalSecrets_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Russia Alyaum</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[RussiyaAlYaum_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sada Al Balad</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SadaAlBalad_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sada AlBalad Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SadaAlBaladDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sama Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SamaCinema_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sama Dubai</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SamaDubai_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sama Syria</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SamaTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Samira TV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SamiraTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sat7 Kid</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Sat7Kid_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Saudia Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlRiyadiah1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Saudia Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlRiyadiah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Scope</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ScopeTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sharjah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SharjahTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sheba</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Sheba_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>SkyNewsArabia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SkyNews_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>SM SM KIDS</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Semsem_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>SNTV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SNTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sout El Shaab</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NileDrama2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Spacetoon</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SpaceToonArabic_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>SSTV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SSTV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Star 1 Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[StarCinema1_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Star 2 Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[StarCinema2_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Sudan TV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Sudan_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>sunnah TV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[AlSunnah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Syria</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SyriaSat_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Syria Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SyriaDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Syria Nour</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[NourElSham_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Syria Sedu</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[SyrianEducation_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Syria Talaqie</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Talaqi_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Taha</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Taha_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Tahrir</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Tahrir_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Tamazigh Maroc</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Tamazight_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Tayba</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Tayba_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Tele Liban</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[TeleLiban_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Time Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[TimeCinema_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Time Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[TimeDrama_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Time Taxi</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[TimeTiatro_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Toktok</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[25TV_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Tounesna</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Tunisia_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Toyor Al Janah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ToyorAlJanah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>TRT Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[TRTArabic_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Tunisia national 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Tunisie7_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>TV 5 MONDE</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[TV5_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Unrwa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Unrwa_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Wanasah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Wanasah_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Yemen</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[Yemen_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Zee Aflam</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ZeeAflam_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Zee Alwan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ZeeAlwan_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+<channel>
+	<name>Zweina Bladna</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[ZweinaBaladna_HD]]></stream_url>
+	<playpath>glarab</playpath>
+</channel>
+        </group>
+	</iptvstreams_list>
