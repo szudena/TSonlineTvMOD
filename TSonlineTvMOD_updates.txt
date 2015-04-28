@@ -1,6 +1,6 @@
-3.1
-https://github.com/szudena/TSonlineTvMOD/raw/master/enigma2-plugin-extensions-tsonlinetvmod_3.1_all.ipk
--New Design, problems with 1920x1080 skins fixed, ip changed due changes on website.
+3.2
+https://github.com/szudena/TSonlineTvMOD/raw/master/enigma2-plugin-extensions-tsonlinetvmod_3.2_all.ipk
+-add glarab hd, add online update
 -------------------
 26-04-2015 by szudena
 Added more channels
