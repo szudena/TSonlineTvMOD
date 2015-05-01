@@ -1,6 +1,6 @@
-3.3
-https://github.com/szudena/TSonlineTvMOD/raw/master/enigma2-plugin-extensions-tsonlinetvmod_3.3_all.ipk
--favorites fixed
+3.4
+https://github.com/szudena/TSonlineTvMOD/raw/master/enigma2-plugin-extensions-tsonlinetvmod_3.4_all.ipk
+-favorites fixed,Glarab fixed,teledunet fixed
 -------------------
 26-04-2015 by szudena
 Added more channels
