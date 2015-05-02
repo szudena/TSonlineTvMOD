@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--updated=26-04-2015 by szudena-->
+<!--updated=03-05-2015 by szudena-->
 <iptvstreams_list>
     <group>
         <id>1</id>
@@ -1884,4 +1884,1275 @@
 	<playpath>glarab</playpath>
 </channel>
         </group>
+    <group>
+        <id>2</id>
+        <name>Yoolive</name>
+        <info></info>
+<channel>
+	<name>2M</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://globalboxrtmp.tulix.tv:1935/2mmonde/globaltv-2mmonde.stream/chunklist_w1603616107.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>6ter</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream2.latvdefrance.com/live/6ter.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>A3</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/a3.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>AAA Music</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://63.237.48.3/ios/AAA_MUSIC/AAA_MUSIC.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>AB1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream5.latvdefrance.com/live/ab1.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ABMoteur</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream5.latvdefrance.com/live/abmoteur.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ANB Iraq</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://188.247.93.26:1935/live/anb.stream_360p/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ANN</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://ns8.indexforce.com/ann/ann]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ART Aflam 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/art_aflam_1.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ART Aflam 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ART Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/art_cinema.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ART Hekayat 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/hekayat__1.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ART Hekayat 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/hekayat_2.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/abu_drama.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi Extra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b880000.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi Sport 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Abu Dhabi Sport 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Action</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream5.latvdefrance.com/live/action.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Afrah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/afrah.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Ajyal</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/ajyal.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Aan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Arabiya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Arabiya Hadath</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Baghdadia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/master.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Baghdadia 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Hiwar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/al-hiwar.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Jadeed</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/jadid.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Jazeera</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Jazeera Doc</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Jazeera English</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Jazeera Misr</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_high]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Manar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://38.96.148.199:1935/liveedge1/livestream_720p/playlist.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Mayadeen</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Nahar Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://50.7.180.18:1935/elnahar_tv/nahar_sport.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Watan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Watan Aghani</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Watan Plus</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Watania 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Al Watania 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>AlNahar Egy</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/al-nahar.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Algerie</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/algerie.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Algerie 4</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/algerie4.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Arabic Doc</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/arabic_doc.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Arte</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream1.latvdefrance.com/live/arte.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Atfal Mawaheb</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/atfal_mawaheb.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>B4U Aflam</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/b4u_aflam.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>B4U Plus</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/b4u+.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>BFMTV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/bfmtv.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Baghdad</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Baraem</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/baraem.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Bein Fr 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/b1_fr.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Bein Fr 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/b2_fr.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Beirut Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/beirut_cinema.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Beit Beitak</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/beit_beitak.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>CBC Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/cbc_drama.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>CBC Extra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/cbc_extra.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>CBC Sofra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/cbc_sofra.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>CNBC Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/cnbc_ar.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>CTV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/ctv.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Cairo Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/cairo_drama.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Cairo cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/cairo_cinema.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Canal Plus Fr</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/canal_plus.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Canal Plus Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/canal_plus_sport.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Cartoon Network</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://edge21.magictvbox.com/live/time_film/index.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Cima</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/cima.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Cima Ali Baba</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/cima_ali_baba.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>D17</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream2.latvdefrance.com/live/d17.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>D8</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/d8.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>DW Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Darbaka Aflam</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/darbaka_aflam.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Disney Kids DE</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/disney_kids.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Dream 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/dream_1.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Dubai</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Dubai One</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/dubai_one.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Dubai Racing</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Dubai Sport 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/dubai_sport1.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Dubai Sport 3</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Dzair</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/dzair.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>ESC 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/esc_2.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Eqtisadia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/eqtisadia.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Erriadia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/riyadiya.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>FX</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream5.latvdefrance.com/live/cinefx.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Fajr</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv_1]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Falastinia</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/falastinia.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Faraeen</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/faraeen.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Fatafeat</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://212.179.77.42/live/livestream3/gmswf.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>First</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/first.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>First Comedy</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/first_comedy.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Fox</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://edge21.magictvbox.com/live/top_movies/index.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Fox Movies</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/fox_movies.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>France 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/fr_2.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>France 3</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/fr_3.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>France 4</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/fr4.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>France 5</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/fr5.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>France Ö</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream3.latvdefrance.com/live/franceo.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Funon</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Gulli</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/gulli.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>HD1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream3.latvdefrance.com/live/hd1.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Hannibal</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Hawakom</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/hawakom.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Hayat Series</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/hayat_serie.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Hctv</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/hctv.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>HodHod</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/hodhod.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Hurra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/hurra.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Hurra Iraq</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/hurra_iraq.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>INews</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Iqra</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://fl1.viastreaming.net:1935/iqraatv/livestream/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Iraqi Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/iraqi_sport.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Itele</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream2.latvdefrance.com/live/itele.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>JSC Children</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Jazayriya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/jazayriya.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Jordan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://64.251.14.168/jorlive/jrtv]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>KNN</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive-2/knn.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>KNN Kurdish</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/knn_kurdish.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Kaifa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://188.247.93.26:1935/live/kifa.stream_360p/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Karameesh</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/karamesh.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Kass 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/kass2.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Koky Kids</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/koky_kids.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Kurdistan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://63.237.48.3/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>L'equipe</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream3.latvdefrance.com/live/lequipe.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>LBC</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/lbc.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>LBC Europe</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Libya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_828.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Libya Toumast</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://188.247.93.26:1935/live/LibyaToumast.stream_360p/playlist.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>M6</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/m6.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>M6 Music</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream5.latvdefrance.com/live/ab1.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/mbc_1.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/mbc_2.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC 3</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/mbc_3.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC 4</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/mbc_4.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC Action</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://63.237.48.3:1935/live/MBC_ACTION]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC Bollywood</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/mbc_bollywood.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/mbc_drama.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC Masr</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/mbc_masr.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC Masr 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/mbc_masr2.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MBC Max</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MTV Dance</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/mtv_dance.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MTV Hits</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/mtv_hits.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>MTV Rock</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/mtv_rock.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Maghribiya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/al-maghribia.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Majan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/majan.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Maroc 4</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/maroc4.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Masr An</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w45768324_b2628000_slen.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Medi 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Mehwar 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/mehwar_2.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Melody Aflam</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/melody_classic.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Moga Comedy</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Nabaa</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://31.14.40.238:1935/live/Nabaa]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>National Geo</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/national_ar.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>National Geo Fr</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/national_ar.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Nessma</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Nickloadeon</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/nickloadeon.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Nile TV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/nile_tv.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Noor Dubai</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Noursat</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/noursat.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Nrj12</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/nrj12.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Nrjtv</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/nrjtv.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>OMN Movie Action</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/osn1.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>OMN Movie Premiere</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/movie_premiere.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Omn Movies</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/movie.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Omn Movies Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/movie_drama.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Ontv</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://50.7.180.18/elONTV/ontvlive_profile2.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Panorama Comedy</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/panorama_comedy.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Panorama Film</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/panorama_film.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Qatar</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/qatar.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Qoran</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>RT</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>RTL9</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/rtl9.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>RTM</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/rtm.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Rotana Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/rotana_cinema.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Rotana Classic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/rotana_classic.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Rotana Clip</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/rotana_clip.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Rotana Masriya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/rotana_masriya.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Rotana Music</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/rotana_music.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Roya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Royal Badawiya</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Royal Edhak</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://94.127.209.149:8080/edhakx/playlist.m3u8?DVR]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>SSTV</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/sstv.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Salam Aleek</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/salam_alik.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Sama Dubai</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Samira</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/samira.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Saudi Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Sharjah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Sharjah Sport</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Shorooq</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/shorooq.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Sky Movie 1 UK</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/rtsun.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Skynews Arabic</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Star Cinema 2</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/star_cinema_2.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Sudan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/sudan.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Syria</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://82.137.248.16:1935/Sat/SatLive2/BratuMarian.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Syria 1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://82.137.248.21:1935/Aloula/AloulaLive3/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Syria Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://82.137.248.21:1935/Drama/DramaLive3/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Syria Noor</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://82.137.248.21:1935/Nour/NourLive2/yoolive.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>TF1</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/tf1.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>TMC</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://stream1.latvdefrance.com/live/tmc.m3u8]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Taiba</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/taiba.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Talaqi</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://82.137.248.20/Talaqie/TalaqieLive2]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Tchad</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[rtmp://tchad.streamakaci.com/tchad/tchad.stream]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Tele Liban</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/tele-liban.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Telvza</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/telvza.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Time Cinema</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/time_cinema.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Tounesna</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/tounesna.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Toyor Al Janah</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/toyor_janah.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Universal Somali</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/universal_somali.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Ya Hala Chabab</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/yahala_shabab.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Ya Hala Drama</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/yahala.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Zee Aflam</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-shift/zee_aflam.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Zee Alwan</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls-yoolive/zee_alwan.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>Zee Living</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/zee_living.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+<channel>
+	<name>w9</name>
+	<piconname>nopic.png</piconname>
+	<stream_url><![CDATA[http://yoolive.com/hls/w9.m3u8?st=yoolive&e=yoolive]]></stream_url>
+	<playpath>yoolive</playpath>
+</channel>
+    </group>
 	</iptvstreams_list>
