@@ -1,4 +1,6 @@
 3.5
 https://github.com/szudena/TSonlineTvMOD/raw/master/enigma2-plugin-extensions-tsonlinetvmod_3.5_all.ipk
+Added: Yoolive, menu key problems fixed.
 -------------------
 03-05-2015 by szudena
+Added: Yoolive
