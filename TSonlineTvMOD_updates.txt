@@ -1,4 +1,4 @@
-3.6
+3.7
 http://github.com/szudena/TSonlineTvMOD/blob/master/enigma2-plugin-extensions-tsonlinetvmod_3.7_all.ipk?raw=true
 teledunet fixed due changes on website.
 -------------------
