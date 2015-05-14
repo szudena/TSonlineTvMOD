@@ -1,6 +1,6 @@
-3.8
-https://raw.githubusercontent.com/szudena/TSonlineTvMOD/1d2f4539d95f6c5939e519632113b6e1ca0285a2/enigma2-plugin-extensions-tsonlinetvmod_3.8_all.ipk
-teledunet fixed due changes on website.
+3.9
+https://raw.githubusercontent.com/szudena/TSonlineTvMOD/1d2f4539d95f6c5939e519632113b6e1ca0285a2/enigma2-plugin-extensions-tsonlinetvmod_3.9_all.ipk
+teledunet fixed again due changes on website.
 -------------------
 03-05-2015 by szudena
 Added: Yoolive
