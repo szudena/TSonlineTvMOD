@@ -1,6 +1,6 @@
-4.0
-https://raw.githubusercontent.com/szudena/TSonlineTvMOD/b9a99ac09b17a052fb28800db0cbba2cdcfbd22e/enigma2-plugin-extensions-tsonlinetvmod_4.0_all.ipk
-yoolive fixed and add more channels. Have fun
+4.1
+https://raw.githubusercontent.com/szudena/TSonlineTvMOD/07160133c93f019a6aff9fc8523b287a3c1f8561/enigma2-plugin-extensions-tsonlinetvmod_4.1_all.ipk
+add more channels, fix some problems, plugin now faster. Have fun
 -------------------
 03-05-2015 by szudena
 Added: Yoolive
