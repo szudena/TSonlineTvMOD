@@ -1,5 +1,5 @@
 4.2
-https://raw.githubusercontent.com/szudena/TSonlineTvMOD/a87a047d0d275adcf4316095d83a622700cc608c/enigma2-plugin-extensions-tsonlinetvmod_4.2_all.ipk
+https://raw.githubusercontent.com/szudena/TSonlineTvMOD/6260881940b23b7728c7fe48e6fd1f402ea0adb3/enigma2-plugin-extensions-tsonlinetvmod_4.2_all.ipk
 teledunet fixed, delte not working channels
 -------------------
 11-06-2015 by szudena
