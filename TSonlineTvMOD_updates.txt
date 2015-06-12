@@ -1,6 +1,6 @@
-4.1
-https://raw.githubusercontent.com/szudena/TSonlineTvMOD/07160133c93f019a6aff9fc8523b287a3c1f8561/enigma2-plugin-extensions-tsonlinetvmod_4.1_all.ipk
-add more channels, fix some problems, plugin now faster. Have fun
+4.2
+https://raw.githubusercontent.com/szudena/TSonlineTvMOD/a87a047d0d275adcf4316095d83a622700cc608c/enigma2-plugin-extensions-tsonlinetvmod_4.2_all.ipk
+teledunet fixed, delte not working channels
 -------------------
-03-05-2015 by szudena
-Added: Yoolive
+11-06-2015 by szudena
+update channellist
