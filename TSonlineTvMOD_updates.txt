@@ -1,6 +1,6 @@
-4.2
-https://raw.githubusercontent.com/szudena/TSonlineTvMOD/6260881940b23b7728c7fe48e6fd1f402ea0adb3/enigma2-plugin-extensions-tsonlinetvmod_4.2_all.ipk
-teledunet fixed, delte not working channels
+4.3
+https://raw.githubusercontent.com/szudena/TSonlineTvMOD/289f606d73930626a7d884bc280c3b8638ea44a6/enigma2-plugin-extensions-tsonlinetvmod_4.3_all.ipk
+teledunet fixed
 -------------------
 11-06-2015 by szudena
 update channellist
