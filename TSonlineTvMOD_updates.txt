@@ -1,6 +1,6 @@
-4.3
-https://raw.githubusercontent.com/szudena/TSonlineTvMOD/289f606d73930626a7d884bc280c3b8638ea44a6/enigma2-plugin-extensions-tsonlinetvmod_4.3_all.ipk
+4.4
+https://raw.githubusercontent.com/szudena/TSonlineTvMOD/a34b0eeb3628989d11a34c747743db0fc81fdec4/enigma2-plugin-extensions-tsonlinetvmod_4.4_all.ipk
 teledunet fixed 
 -------------------
-11-06-2015 by szudena
-update channellist
+18-06-2015 by szudena
+teledunet fixed
