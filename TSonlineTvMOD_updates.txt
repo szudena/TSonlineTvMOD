@@ -2,5 +2,5 @@
 https://raw.githubusercontent.com/szudena/TSonlineTvMOD/d509102aff610633e7c80f8ba94645a09a792795/enigma2-plugin-extensions-tsonlinetvmod_4.5_all.ipk
 teledunet fixed 
 -------------------
-20-06-2015 by szudena
-teledunet fixed
+20-06-2015-1 by szudena
+karimos-sat added again
