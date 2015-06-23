@@ -2204,1610 +2204,1610 @@
 <channel>
 	<name>2M</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=2m app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[2m@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>ALHayat</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=alhayat app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[alhayat@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Abu Dhabi Drama</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=abu_dhabi_drama app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[abu_dhabi_drama@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Abu Dhabi Emarat</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=abu_dhabi_emarat app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[abu_dhabi_emarat@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Abu Dhabi Sports 1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=abu_dhabi_sports_1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[abu_dhabi_sports_1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Abu Dhabi Sports 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=abu_dhabi_sports_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[abu_dhabi_sports_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Abu Dhabi</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=abu_dhabi app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[abu_dhabi@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Aghanina</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=aghanina app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[aghanina@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Ajyal</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=ajyal app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[ajyal@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Aoula Maroc</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_aoula_maroc app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_aoula_maroc@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Arabia Hadath</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_arabia_hadath app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_arabia_hadath@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Baghdadia</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_baghdadia app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_baghdadia@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Ekhbaria</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_ekhbaria app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_ekhbaria@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Ghadeer</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_ghadeer app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_ghadeer@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Haneen Music</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_haneen_music app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_haneen_music@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Iraqiya</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_iraqiya app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_iraqiya@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Kahera Wal Nas</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_kahera_wal_nas app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_kahera_wal_nas@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Maghribia</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_maghribia app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_maghribia@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Majd</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_majd app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_majd@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Manar</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_manar app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_manar@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Masriyah</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_masriyah app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_masriyah@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Mehwar</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_mehwar app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_mehwar@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Moustakilla</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_moustakilla app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_moustakilla@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Mutawasit</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_mutawasit app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_mutawasit@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Nahar Drama</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_nahar_drama app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_nahar_drama@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Quran Al Karim</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_quran_al_karim app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_quran_al_karim@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Rafidain</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_rafidain app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_rafidain@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Rahma</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_rahma app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_rahma@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Resalah</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_resalah app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_resalah@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Sharqiya</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_sharqiya app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_sharqiya@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Sumaria</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_sumaria app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_sumaria@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Thaniya</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_thaniya app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_thaniya@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al Tunisia</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_tunisia app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_tunisia@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al aqsa</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_aqsa app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_aqsa@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al forat</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_forat app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_forat@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al hurra Iraq</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_hurra_iraq app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_hurra_iraq@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al maaref</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_maaref app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_maaref@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al mayaden</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_mayaden app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_mayaden@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al nahar</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_nahar app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_nahar@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al oula</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_oula app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_oula@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al rasheed</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_rasheed app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_rasheed@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Al watan</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=al_watan app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[al_watan@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>AlGeria</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=algeria app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[algeria@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Alanwar</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=alanwar app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[alanwar@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Alarabiya</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=alarabiya app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[alarabiya@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Albabeleyia</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=albabeleyia app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[albabeleyia@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Algeria 3</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=algeria_3 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[algeria_3@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Alhayat 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=alhayat_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[alhayat_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Aljadeed</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=aljadeed app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[aljadeed@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Aljazeera Children</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=aljazeera_children app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[aljazeera_children@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Aljazeera Doc</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=aljazeera_doc app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[aljazeera_doc@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Aljazeera Misr</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=aljazeera_misr app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[aljazeera_misr@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Aljazeera</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=aljazeera app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[aljazeera@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Alkass Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=alkass_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[alkass_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Alqudis</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=alqudis app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[alqudis@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Alriadia Sport</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=alriadia_sport app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[alriadia_sport@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Arabica Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=arabica_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[arabica_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Arrabia</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=arrabia app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[arrabia@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Art Aflam 1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=art_aflam_1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[art_aflam_1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Art Aflam 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=art_aflam_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[art_aflam_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Art Cinema</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=art_cinema app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[art_cinema@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Art Hekayat 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=art_hekayat_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[art_hekayat_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Art Hekayat</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=art_hekayat app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[art_hekayat@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Ashrooq Tv Sudan</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=ashrooq_tv_sudan app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[ashrooq_tv_sudan@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Assadissa</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=assadissa app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[assadissa@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Attassia Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=attassia_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[attassia_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>B4u Aflam</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=b4u_aflam app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[b4u_aflam@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>BBC Arabic</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bbc_arabic app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bbc_arabic@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Baghdad</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=baghdad app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[baghdad@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bahrain</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bahrain app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bahrain@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Baraem</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=baraem app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[baraem@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>BeIN SPORTS 1 HD FR</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sports_1_hd_fr app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sports_1_hd_fr@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>BeIN SPORTS 2 HD FR</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sports_2_hd_fr app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sports_2_hd_fr@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 10</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_10 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_10@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 3</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_3 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_3@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 4</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_4 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_4@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 5</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_5 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_5@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 6</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_6 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_6@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 7</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_7 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_7@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 8</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_8 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_8@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Bein Sport 9</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=bein_sport_9 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[bein_sport_9@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Blue Nile</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=blue_nile app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[blue_nile@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>CBC 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cbc_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cbc_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>CBC Drama</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cbc_drama app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cbc_drama@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>CBC Sofra</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cbc_sofra app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cbc_sofra@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>CBC</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cbc app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cbc@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Cairo Cinema</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cairo_cinema app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cairo_cinema@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Cairo Drama</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cairo_drama app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cairo_drama@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Canal Plus Cinema</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=canal_plus_cinema app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[canal_plus_cinema@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Canal Plus Sport</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=canal_plus_sport app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[canal_plus_sport@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Canal Plus</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=canal_plus app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[canal_plus@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Cartoon Network</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cartoon_network app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cartoon_network@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Cherie 25</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cherie_25 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cherie_25@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Cima</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=cima app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[cima@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Coran</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=coran app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[coran@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Djibouti</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=djibouti app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[djibouti@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Dream 1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=dream_1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[dream_1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Dream 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=dream_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[dream_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Dubai One</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=dubai_one app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[dubai_one@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Dubai Sport 1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=dubai_sport_1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[dubai_sport_1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Dubai</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=dubai app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[dubai@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Dzair Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=dzair_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[dzair_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>EL DJAZAIRIA</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=el_djazairia app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[el_djazairia@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>ESTV</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=estv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[estv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Echorouk Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=echorouk_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[echorouk_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>El Heddaf TV</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=el_heddaf_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[el_heddaf_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Ennahar Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=ennahar_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[ennahar_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Eriteria Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=eriteria_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[eriteria_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Fatafeat</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=fatafeat app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[fatafeat@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Fox Movies</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=fox_movies app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[fox_movies@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>France 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=france_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[france_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>France 3</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=france_3 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[france_3@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>France 4</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=france_4 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[france_4@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>France 5</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=france_5 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[france_5@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>France O</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=france_o app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[france_o@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>France24 Arabic</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=france24_arabic app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[france24_arabic@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Funoon</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=funoon app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[funoon@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Future</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=future app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[future@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Gearone</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=gearone app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[gearone@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Gulli</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=gulli app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[gulli@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Hanibal</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=hanibal app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[hanibal@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Horn Cable Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=horn_cable_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[horn_cable_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>I tele</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=i_tele app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[i_tele@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Iqra</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=iqra app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[iqra@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Iraqia Sport</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=iraqia_sport app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[iraqia_sport@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Ishtar</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=ishtar app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[ishtar@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Jordan</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=jordan app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[jordan@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>KBC Algeria</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=kbc_algeria app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[kbc_algeria@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>KSA 1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=ksa_1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[ksa_1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>KSA 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=ksa_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[ksa_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Kalsan Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=kalsan_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[kalsan_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Karameesh</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=karameesh app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[karameesh@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Karbala Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=karbala_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[karbala_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Kuwait</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=kuwait app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[kuwait@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>LBC</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=lbc app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[lbc@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>LDC</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=ldc app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[ldc@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>LLBN</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=llbn app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[llbn@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Lbc Europe</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=lbc_europe app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[lbc_europe@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Lebanon Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=lebanon_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[lebanon_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Libya Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=libya_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[libya_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>M6</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=m6 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[m6@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC 1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC 3</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_3 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_3@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC 4</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_4 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_4@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC Action</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_action app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_action@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC Bollywood</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_bollywood app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_bollywood@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC Drama</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_drama app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_drama@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC Masr 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_masr_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_masr_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC Masr</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_masr app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_masr@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MBC Max</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mbc_max app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mbc_max@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>MTV</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mtv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mtv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Mauritanie</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mauritanie app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mauritanie@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Mazzika zoom</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mazzika_zoom app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mazzika_zoom@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Mazzika</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=mazzika app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[mazzika@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Medi 1 Sat</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=medi_1_sat app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[medi_1_sat@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Melody Classic</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=melody_classic app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[melody_classic@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Melody</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=melody app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[melody@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Moga Comedy</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=moga_comedy app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[moga_comedy@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Music plus</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=music_plus app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[music_plus@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>NBN</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nbn app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nbn@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>NRJ 12</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nrj_12 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nrj_12@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Nat Geo Ad</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nat_geo_ad app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nat_geo_ad@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Neelain Sport</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=neelain_sport app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[neelain_sport@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Nessma</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nessma app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nessma@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Nile Cinema</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nile_cinema app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nile_cinema@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Nile Comedy</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nile_comedy app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nile_comedy@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Nile Drama</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nile_drama app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nile_drama@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Nile News</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nile_news app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nile_news@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Nile Sport</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nile_sport app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nile_sport@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Nile Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=nile_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[nile_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Noon Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=noon_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[noon_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Noor dubai</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=noor_dubai app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[noor_dubai@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Noursat</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=noursat app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[noursat@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>OTV Lebanon</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=otv_lebanon app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[otv_lebanon@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Om Durman</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=om_durman app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[om_durman@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>On TV</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=on_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[on_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Palestine</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=palestine app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[palestine@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Panorama Drama 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=panorama_drama_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[panorama_drama_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Panorama Drama</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=panorama_drama app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[panorama_drama@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Panorama Food</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=panorama_food app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[panorama_food@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Panorama comedy</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=panorama_comedy app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[panorama_comedy@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Qatar</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=qatar app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[qatar@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>RTS Senegal</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rts_senegal app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rts_senegal@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Rmc Decouverte</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rmc_decouverte app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rmc_decouverte@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Rotana Aflam</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rotana_aflam app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rotana_aflam@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Rotana Classic</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rotana_classic app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rotana_classic@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Rotana Clip</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rotana_clip app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rotana_clip@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Rotana Khaligi</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rotana_khaligi app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rotana_khaligi@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Rotana Masriya</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rotana_masriya app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rotana_masriya@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Rotana Music</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rotana_music app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rotana_music@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Rotana cinema</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=rotana_cinema app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[rotana_cinema@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Roya</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=roya app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[roya@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Russia Alyaum</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=russia_alyaum app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[russia_alyaum@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>SNTV</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=sntv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[sntv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Sada Al Balad</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=sada_al_balad app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[sada_al_balad@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Sama Dubai</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=sama_dubai app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[sama_dubai@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Sama Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=sama_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[sama_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Samira Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=samira_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[samira_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Sharqia News</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=sharqia_news app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[sharqia_news@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Somali Land</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=somali_land app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[somali_land@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Spacetoon</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=spacetoon app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[spacetoon@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Star Cinema 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=star_cinema_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[star_cinema_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Star cinema</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=star_cinema app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[star_cinema@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Sudan Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=sudan_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[sudan_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Syria Drama</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=syria_drama app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[syria_drama@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Syria</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=syria app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[syria@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>TF1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=tf1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[tf1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>TFM Senegal</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=tfm_senegal app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[tfm_senegal@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Taha Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=taha_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[taha_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Tamazigh Algeria</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=tamazigh_algeria app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[tamazigh_algeria@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Tchad</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=tchad app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[tchad@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Teledunet Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=teledunet_tv app=live2 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[teledunet_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Telvza Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=telvza_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[telvza_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Time Film</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=time_film app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[time_film@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Time comedy</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=time_comedy app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[time_comedy@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Top Movies</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=top_movies app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[top_movies@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Tounesna</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=tounesna app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[tounesna@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Toyor Al Janah</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=toyor_al_janah app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[toyor_al_janah@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Tunisia First TV</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=tunisia_first_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[tunisia_first_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Tunisia national 1</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=tunisia_national_1 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[tunisia_national_1@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Tunisia national 2</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=tunisia_national_2 app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[tunisia_national_2@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Universal Somali Tv</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=universal_somali_tv app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[universal_somali_tv@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Wanasah</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=wanasah app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[wanasah@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Zahra Ennahar</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=zahra_ennahar app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[zahra_ennahar@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Zaytoona</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=zaytoona app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[zaytoona@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Zee Aflam</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=zee_aflam app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[zee_aflam@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
 <channel>
 	<name>Zee Alwan</name>
 	<piconname>nopic.png</piconname>
-	<stream_url><![CDATA[rtmp://167.114.101.234:1935/live playpath=zee_alwan app=live swfUrl=http://www.teledunet.com/mobile/player.swf?id1=teledunet&channel=2m&&user=teledunet&token=teledunet live=1 pageUrl=http://www.teledunet.com/mobile/]]></stream_url>
+	<stream_url><![CDATA[zee_alwan@?teledunet]]></stream_url>
 	<ts_stream></ts_stream>
 	<buffer_kb>512</buffer_kb>
 </channel>
