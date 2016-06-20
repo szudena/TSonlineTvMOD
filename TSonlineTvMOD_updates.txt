@@ -1,6 +1,6 @@
-4.6
-https://github.com/szudena/TSonlineTvMOD/blob/master/enigma2-plugin-extensions-tsonlinetvmod_4.6_all.ipk?raw=true
-teledunet fixed 
+5.7
+https://raw.githubusercontent.com/szudena/TSonlineTvMOD/tsonlinetvmod/enigma2-plugin-extensions-tsonlinetvmod_4.6_all.ipk
+teledunet fixed, online update added
 -------------------
-22-06-2015 by szudena
+11-06-2016 by szudena
 teledunet fixed
